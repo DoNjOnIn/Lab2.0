@@ -9,5 +9,3 @@ if x>=r and x<=6:
     print('y='+ str(r+((-3-r)/(6-r)*(x-r))))
 if x>6:
     print('y='+str(x+9))
-print('Hello world')
-print('123')
