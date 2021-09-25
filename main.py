@@ -10,3 +10,4 @@ if x>=r and x<=6:
 if x>6:
     print('y='+str(x+9))
 print('Hello world')
+print('123')
